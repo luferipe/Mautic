@@ -1,0 +1,8 @@
+/** Command Docker **/
+
+Atualizar conforme mudanças do Dockerfile e Docker compose
+=> docker build -t mautic .
+
+Rodar Container mautic
+=> docker-compose up
+
